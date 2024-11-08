@@ -5,10 +5,10 @@ import Pagetitle from "../elements/Pagetitle";
 import Skill from "../elements/Skill";
 
 const aboutContent = {
-  name: "Bolby",
+  name: "kamran",
   avatarImage: "/images/avatar-2.svg",
   content:
-    "I am Bolby Doe, web developer from London, United Kingdom. I have rich experience in web site design and building and customization, also I am good at WordPress.",
+    "I am kamran khan, web developer from London, United Kingdom. I have rich experience in web site design and building and customization, also I am good at WordPress.",
 };
 
 const progressData = [
@@ -20,7 +20,7 @@ const progressData = [
   },
   {
     id: 2,
-    title: "UI/UX Design",
+    title: "Ai ",
     percantage: 95,
     progressColor: "#FF4C60",
   },
